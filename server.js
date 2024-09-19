@@ -39,8 +39,7 @@ app.get("/api/images/:folder", async (req, res) => {
     res.json({ images });
   } catch (error) {
     console.error("Error fetching images:", error.message);
-    res.status(500).send("Error fetching images");
-  }
+    res.status(500).json({ message: "Error fetching images", error: error.message });  }
 });
 
 app.listen(PORT, () => {
