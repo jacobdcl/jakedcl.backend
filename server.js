@@ -43,6 +43,9 @@ app.get("/api/images/:folder", async (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
+
+
+
         // Custom metadata from Cloudinary
         /* {
             "images": [
