@@ -7,7 +7,9 @@ const PORT = process.env.PORT || 5001;
 
 app.use(express.json());
 app.use(cors({
-  origin: '*',  // Adjust this to allow your specific frontend domain
+  origin: ['http://localhost:3000', 'https://your-frontend-url.com'],  // Add the frontend URL
+  methods: ['GET', 'POST'],
+  credentials: true,
 }));
 
 // Cloudinary configuration
