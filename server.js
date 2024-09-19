@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 5001;
 
 app.use(express.json());
 app.use(cors({
-  origin: ['http://localhost:3000', 'https://your-frontend-url.com'],  // Add the frontend URL
+  origin: ['http://localhost:3000', 'https://jakedcl.com'],  // Add the frontend URL
   methods: ['GET', 'POST'],
   credentials: true,
 }));
@@ -45,4 +45,8 @@ app.get("/api/images/:folder", async (req, res) => {
 
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
+});
+
+app.get('/', (req, res) => {
+  res.send('Server is running!!!');
 });
