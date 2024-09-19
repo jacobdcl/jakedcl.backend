@@ -19,7 +19,7 @@ cloudinary.config({
 app.get("/api/images/:folder", async (req, res) => {
   try {
     // Using folder parameter dynamically to fetch images from subfolders
-    const folderPath = `jasiahpowers/${req.params.folder}`; 
+    const folderPath = `jakedcl/${req.params.folder}`; 
     const { resources } = await cloudinary.search
       .expression(`folder:${folderPath}`)
       .sort_by("public_id", "desc")
