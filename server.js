@@ -6,19 +6,20 @@ const app = express();
 const PORT = process.env.PORT || 5001;
 
 app.use(express.json());
-app.use(cors());
+app.use(cors({
+  origin: '*',  // Adjust this to allow your specific frontend domain
+}));
 
 // Cloudinary configuration
 cloudinary.config({
-  cloud_name: process.env.VITE_CLOUDINARY_CLOUD_NAME,
-  api_key: process.env.VITE_CLOUDINARY_API_KEY,
-  api_secret: process.env.VITE_CLOUDINARY_API_SECRET,
+  cloud_name: process.env.CLOUDINARY_CLOUD_NAME,
+  api_key: process.env.CLOUDINARY_API_KEY,
+  api_secret: process.env.CLOUDINARY_API_SECRET,
 });
 
 // API route to fetch images from a specific subfolder in Cloudinary
 app.get("/api/images/:folder", async (req, res) => {
   try {
-    // Using folder parameter dynamically to fetch images from subfolders
     const folderPath = `jakedcl/${req.params.folder}`; 
     const { resources } = await cloudinary.search
       .expression(`folder:${folderPath}`)
@@ -35,7 +36,7 @@ app.get("/api/images/:folder", async (req, res) => {
     
     res.json({ images });
   } catch (error) {
-    console.error("Error fetching images:", error);
+    console.error("Error fetching images:", error.message);
     res.status(500).send("Error fetching images");
   }
 });
@@ -43,20 +44,3 @@ app.get("/api/images/:folder", async (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
-
-
-
-        // Custom metadata from Cloudinary
-        /* {
-            "images": [
-                {
-                "url": "https://example.com/image1.jpg",
-                "public_id": "sample_image",
-                "tags": ["travel", "mountains"],
-                "metadata": {
-                    "caption": "A beautiful sunrise in the Rocky Mountains"
-                }
-                }
-            ]
-            } */
-       
