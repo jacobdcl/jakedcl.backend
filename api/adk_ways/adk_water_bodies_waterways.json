@@ -1,0 +1,682 @@
+[
+    {
+        "name": "Scott Clearing Leanto",
+        "coordinates": [
+            -74.0141542,
+            44.1564264
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Lean-tos"
+    },
+    {
+        "name": "Wallface Leanto",
+        "coordinates": [
+            -74.0530827,
+            44.1224143
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Lean-tos"
+    },
+    {
+        "name": "Rocky Falls Leanto",
+        "coordinates": [
+            -73.9980329,
+            44.1720509
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Lean-tos"
+    },
+    {
+        "name": "Panther Gorge Leanto",
+        "coordinates": [
+            -73.9137013,
+            44.0999646
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Lean-tos"
+    },
+    {
+        "name": "Duck Hole #1",
+        "coordinates": [
+            -74.1039283,
+            44.1434045
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Lean-tos"
+    },
+    {
+        "name": "Duck Hole #2",
+        "coordinates": [
+            -74.1062167,
+            44.141412
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Lean-tos"
+    },
+    {
+        "name": "Moose Pond",
+        "coordinates": [
+            -74.0738097,
+            44.1827636
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Lean-tos"
+    },
+    {
+        "name": "Cold River #1",
+        "coordinates": [
+            -74.1300743,
+            44.1429299
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Lean-tos"
+    },
+    {
+        "name": "Cold River #2",
+        "coordinates": [
+            -74.1301287,
+            44.1425218
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Lean-tos"
+    },
+    {
+        "name": "Seward",
+        "coordinates": [
+            -74.2091406,
+            44.1063643
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Lean-tos"
+    },
+    {
+        "name": "Catlin Bay #2",
+        "coordinates": [
+            -74.3957776,
+            43.9970344
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Lean-tos"
+    },
+    {
+        "name": "Plumley's Point",
+        "coordinates": [
+            -74.3258985,
+            44.0658927
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Lean-tos"
+    },
+    {
+        "name": "Rodney Point #1",
+        "coordinates": [
+            -74.3491031,
+            44.0435571
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Lean-tos"
+    },
+    {
+        "name": "Number Four #1",
+        "coordinates": [
+            -74.1579553,
+            44.1734814
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Lean-tos"
+    },
+    {
+        "name": "Number Four #2",
+        "coordinates": [
+            -74.1580616,
+            44.1734653
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Lean-tos"
+    },
+    {
+        "name": "Catlin Bay #1",
+        "coordinates": [
+            -74.39273,
+            43.9981478
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Lean-tos"
+    },
+    {
+        "name": "Hidden Cove",
+        "coordinates": [
+            -74.3869841,
+            44.0028659
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Lean-tos"
+    },
+    {
+        "name": "Kelly Point #1",
+        "coordinates": [
+            -74.3673094,
+            44.0288832
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Lean-tos"
+    },
+    {
+        "name": "Kelly Point #2",
+        "coordinates": [
+            -74.3671779,
+            44.0286904
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Lean-tos"
+    },
+    {
+        "name": "Rodney Point #2",
+        "coordinates": [
+            -74.3498993,
+            44.0419968
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Lean-tos"
+    },
+    {
+        "name": "Long Lake",
+        "coordinates": [
+            -74.3282097,
+            44.0653263
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Lean-tos"
+    },
+    {
+        "name": "Island House",
+        "coordinates": [
+            -74.322349,
+            44.0772214
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Lean-tos"
+    },
+    {
+        "name": "Casey Brook Leanto",
+        "coordinates": [
+            -73.8700114,
+            44.0423481
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Lean-tos"
+    },
+    {
+        "name": "Calkins Creek",
+        "coordinates": [
+            -74.3120841,
+            44.1056807
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Lean-tos"
+    },
+    {
+        "name": "Deep Hole",
+        "coordinates": [
+            -74.3215269,
+            44.1029881
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Lean-tos"
+    },
+    {
+        "name": "Lost Channel",
+        "coordinates": [
+            -74.3214715,
+            44.0945344
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Lean-tos"
+    },
+    {
+        "name": "Northwest 1",
+        "coordinates": [
+            -74.3348415,
+            44.0803951
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Lean-tos"
+    },
+    {
+        "name": "Northwest 2",
+        "coordinates": [
+            -74.3311982,
+            44.0823517
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Lean-tos"
+    },
+    {
+        "name": "No name",
+        "coordinates": [
+            -73.5148167,
+            44.4001369
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Lean-tos"
+    },
+    {
+        "name": "No name",
+        "coordinates": [
+            -74.3383992,
+            44.0523183
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Water Bodies_Waterways"
+    },
+    {
+        "name": "Thrall Dam Park",
+        "coordinates": [
+            -73.5584015,
+            44.2716218
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Parking"
+    },
+    {
+        "name": "No name",
+        "coordinates": [
+            -74.1523427,
+            44.2781648
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Water Bodies_Waterways"
+    },
+    {
+        "name": "Big Eddy",
+        "coordinates": [
+            -74.233213,
+            44.0983939
+        ],
+        "elevation": "521",
+        "type": "water_bodies_waterways",
+        "source": "Water Bodies_Waterways"
+    },
+    {
+        "name": "Burnt Island Rapids",
+        "coordinates": [
+            -74.5993425,
+            44.2925611
+        ],
+        "elevation": "445",
+        "type": "water_bodies_waterways",
+        "source": "Water Bodies_Waterways"
+    },
+    {
+        "name": "Hedgehog Rapids",
+        "coordinates": [
+            -74.6018427,
+            44.3033945
+        ],
+        "elevation": "445",
+        "type": "water_bodies_waterways",
+        "source": "Water Bodies_Waterways"
+    },
+    {
+        "name": "Sols Rapids",
+        "coordinates": [
+            -74.5940643,
+            44.2553385
+        ],
+        "elevation": "451",
+        "type": "water_bodies_waterways",
+        "source": "Water Bodies_Waterways"
+    },
+    {
+        "name": "No name",
+        "coordinates": [
+            -74.2992113,
+            44.4317225
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Water Bodies_Waterways"
+    },
+    {
+        "name": "No name",
+        "coordinates": [
+            -73.5104917,
+            44.1013183
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Water Bodies_Waterways"
+    },
+    {
+        "name": "No name",
+        "coordinates": [
+            -73.5394005,
+            44.0902633
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Water Bodies_Waterways"
+    },
+    {
+        "name": "No name",
+        "coordinates": [
+            -74.1520777,
+            44.2781683
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Water Bodies_Waterways"
+    },
+    {
+        "name": "No name",
+        "coordinates": [
+            -73.5133761,
+            44.1281257
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Water Bodies_Waterways"
+    },
+    {
+        "name": "No name",
+        "coordinates": [
+            -74.2395267,
+            44.2743206
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Water Bodies_Waterways"
+    },
+    {
+        "name": "No name",
+        "coordinates": [
+            -74.2395807,
+            44.27447
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Water Bodies_Waterways"
+    },
+    {
+        "name": "Sperry Pond Dam",
+        "coordinates": [
+            -74.5173316,
+            44.0824786
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Water Bodies_Waterways"
+    },
+    {
+        "name": "No name",
+        "coordinates": [
+            -74.0745932,
+            44.324535
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Water Bodies_Waterways"
+    },
+    {
+        "name": "No name",
+        "coordinates": [
+            -74.2990951,
+            44.4314465
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Water Bodies_Waterways"
+    },
+    {
+        "name": "Huttlinger House",
+        "coordinates": [
+            -73.9873771,
+            44.2918988
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Hotels_Motels_Hostels_Lodges_Inns"
+    },
+    {
+        "name": "Cochran's Cabins",
+        "coordinates": [
+            -74.1595058,
+            44.2878492
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Hotels_Motels_Hostels_Lodges_Inns"
+    },
+    {
+        "name": "4610' Cafe",
+        "coordinates": [
+            -73.906159,
+            44.3672743
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Food Places"
+    },
+    {
+        "name": "McDonald's",
+        "coordinates": [
+            -73.9953001,
+            44.2937389
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Food Places"
+    },
+    {
+        "name": "The Old Mine",
+        "coordinates": [
+            -73.5094456,
+            44.0613879
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Food Places"
+    },
+    {
+        "name": "Deer's Head Inn",
+        "coordinates": [
+            -73.5925565,
+            44.2143504
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Food Places"
+    },
+    {
+        "name": "Cobble Hill Inn",
+        "coordinates": [
+            -73.6038883,
+            44.2131816
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Food Places"
+    },
+    {
+        "name": "No name",
+        "coordinates": [
+            -73.9920573,
+            44.2947946
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Food Places"
+    },
+    {
+        "name": "McDonald's",
+        "coordinates": [
+            -74.4625976,
+            44.2282997
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Food Places"
+    },
+    {
+        "name": "Straight Shot",
+        "coordinates": [
+            -73.9848994,
+            44.2867748
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Food Places"
+    },
+    {
+        "name": "Zig Zags Pub",
+        "coordinates": [
+            -73.9853392,
+            44.2871799
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Food Places"
+    },
+    {
+        "name": "Top of the Park",
+        "coordinates": [
+            -73.9848383,
+            44.2914179
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Food Places"
+    },
+    {
+        "name": "Adirondack Popcorn Company",
+        "coordinates": [
+            -73.9850952,
+            44.2894897
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Food Places"
+    },
+    {
+        "name": "The Hungry Hiker",
+        "coordinates": [
+            -73.9636375,
+            44.1827142
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Food Places"
+    },
+    {
+        "name": "McDonald's",
+        "coordinates": [
+            -74.1160414,
+            44.3129105
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Food Places"
+    },
+    {
+        "name": "Subway",
+        "coordinates": [
+            -73.984133,
+            44.2845213
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Food Places"
+    },
+    {
+        "name": "Just Dogs",
+        "coordinates": [
+            -74.2525033,
+            44.4385693
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Food Places"
+    },
+    {
+        "name": "The Shamrock",
+        "coordinates": [
+            -74.1554695,
+            44.4180859
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Food Places"
+    },
+    {
+        "name": "Boathouse",
+        "coordinates": [
+            -74.1243495,
+            44.3214819
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Food Places"
+    },
+    {
+        "name": "Subway",
+        "coordinates": [
+            -74.1150837,
+            44.3114637
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Food Places"
+    },
+    {
+        "name": "JRECK Subs",
+        "coordinates": [
+            -74.1327343,
+            44.3285784
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Food Places"
+    },
+    {
+        "name": "Haystack Bar & Bistro",
+        "coordinates": [
+            -73.9964103,
+            44.2961294
+        ],
+        "elevation": null,
+        "type": "water_bodies_waterways",
+        "source": "Food Places"
+    }
+]
